@@ -1,0 +1,14 @@
+Tensorflow==1.14
+Numpy
+opencv-python
+MTCNN
+scikit-learn
+xlsxwriter
+xlrd
+xlwt
+scipy
+pickled
+pillow
+xlutils
+protobuf==3.19.0
+openpyxl
